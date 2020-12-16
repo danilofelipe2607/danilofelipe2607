@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - <b>Education</b>
 
-📖 Web Development Full Stack
+📖 Analysis and systems development
 📆 2018 - 2020
 📍 University Unicesumar - Maringá -PR, Brazil
 
