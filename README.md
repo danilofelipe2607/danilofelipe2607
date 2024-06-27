@@ -29,4 +29,6 @@ I'm always seeking knowledge and improving my skills, and I'm always open to sug
 
 ![danilofelipe2607 GitHub stats](https://github-readme-stats.vercel.app/api?username=danilofelipe2607&show_icons=true&theme=radical)
 
+Please feel free to contact me to discuss collaborations, interesting projects, or anything else related to programming. I look forward to hearing from you!
+
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
